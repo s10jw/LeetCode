@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7997e80-3558-4e67-9fbb-2577e99b23f3" name="Changes" comment="AddTwo">
+    <list default="true" id="b7997e80-3558-4e67-9fbb-2577e99b23f3" name="Changes" comment="MergeLists finished up, sentinel nodes? Just make better linked list class LC.">
       <change afterPath="$PROJECT_DIR$/src/EasyProblems/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyProblems/MergeLists.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MediumProblems/ReverseList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EasyProblems/PalindromeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EasyProblems/PalindromeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MediumProblems/AddTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MediumProblems/AddTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="EasyProblems" />
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672282222855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MergeLists finished up, sentinel nodes? Just make better linked list class LC.">
+      <created>1672444939643</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672444939643</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +177,8 @@
     <MESSAGE value="Palindrome Number" />
     <MESSAGE value="Longest Common Prefix" />
     <MESSAGE value="AddTwo" />
-    <option name="LAST_COMMIT_MESSAGE" value="AddTwo" />
+    <MESSAGE value="MergeLists finished up, sentinel nodes? Just make better linked list class LC." />
+    <option name="LAST_COMMIT_MESSAGE" value="MergeLists finished up, sentinel nodes? Just make better linked list class LC." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
