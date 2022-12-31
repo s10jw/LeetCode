@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7997e80-3558-4e67-9fbb-2577e99b23f3" name="Changes" comment="MergeLists finished up, sentinel nodes? Just make better linked list class LC.">
+    <list default="true" id="b7997e80-3558-4e67-9fbb-2577e99b23f3" name="Changes" comment="AddTwo finished up! Wasn't used to using sentinel nodes, but as soon as I picked it up everything worked out.">
       <change afterPath="$PROJECT_DIR$/src/EasyProblems/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MediumProblems/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EasyProblems/Running1DSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EasyProblems/PalindromeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EasyProblems/PalindromeNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MediumProblems/AddTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MediumProblems/AddTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672444939643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="AddTwo finished up! Wasn't used to using sentinel nodes, but as soon as I picked it up everything worked out.">
+      <created>1672447666487</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672447666487</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +184,8 @@
     <MESSAGE value="Longest Common Prefix" />
     <MESSAGE value="AddTwo" />
     <MESSAGE value="MergeLists finished up, sentinel nodes? Just make better linked list class LC." />
-    <option name="LAST_COMMIT_MESSAGE" value="MergeLists finished up, sentinel nodes? Just make better linked list class LC." />
+    <MESSAGE value="AddTwo finished up! Wasn't used to using sentinel nodes, but as soon as I picked it up everything worked out." />
+    <option name="LAST_COMMIT_MESSAGE" value="AddTwo finished up! Wasn't used to using sentinel nodes, but as soon as I picked it up everything worked out." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
